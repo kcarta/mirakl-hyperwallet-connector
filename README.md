@@ -80,7 +80,7 @@ This is a multi-module Gradle project composed by Spring Boot modules ([Official
 
 Every module contains a configuration file located under the `MODULE_NAME/src/main/resources` folder path.
 
-All configuration should be done by setting environment variables, as described in the table above. 
+All configuration should be done by setting environment variables, as described in the table above.
 
 The module configuration files listed below contain properties that retrieve their values directly from environment variables. The modules and their configuration files are described here, for troubleshooting purposes or to support advanced configuration & deployment:
 
